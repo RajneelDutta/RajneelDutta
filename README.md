@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajneelDutta
-- 👀 I’m interested in Open-source projects
+- 👾 I’m interested in Open-source projects and Data Science
 - 🌱 I’m currently playing with R.
 - 💞️ I’m looking to collaborate on various Open-source projects and issues
 - 📫 Reach me at rajneeldutta@gmail.com
