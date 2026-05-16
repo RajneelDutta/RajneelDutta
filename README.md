@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RajneelDutta
-- 👾 I’m interested in Open-source projects and Data Science
-- 🌱 I’m currently playing with R and learning to become a ML Engineer.
-- 💞️ I’m looking to collaborate on various Open-source projects and issues
-- 📫 Reach me at rajneeldutta@gmail.com
+- 👋 Hi, I'm Neel!
+- 💡 Passionate about Open-source and Data Science, always exploring new ideas at the intersection of both.
+- 🌱 Currently diving deep into **Dify** and **LangGraph** to build smarter AI-powered workflows.
+- 🤝 Open to collaborating on meaningful Open-source projects, especially in AI, ML, and data tooling.
+- 📬 Best way to reach me: [rajneeldutta@gmail.com](mailto:rajneeldutta@gmail.com) or find me on Twitter [@rajneel__](https://twitter.com/rajneel__)
 
 <!---
 RajneelDutta/RajneelDutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
